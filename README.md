@@ -82,16 +82,7 @@ The project was deployed using GitHub pages once the basic structure of the page
 The website was created using [Atom](https://atom.io/). Version control was undertaken by committing to [Git](https://git-scm.com/) and pushing to [GitHub](https://github.com/) using the functions within Atom.
 
 ### **Deployment of the Page**
-1. In the IDE, ensure the tree is clean, and all required items have been committed and pushed to the repository in GitHub.
-1. Sign in to GitHub.
-1. Navigate to the appropriate repository: [React Tutorial](https://github.com/lilblupig/react-tutorial)
-1. From the repository menu, choose Settings.
-![GitHub menu snip](assets/readme-images/deploy-1.png)
-1. On the sidebar menu to the left, find the Pages section.
-1. From the first dropdown box, choose the Master branch, then click save.
-![GitHub Pages snip](assets/readme-images/deploy-2.png)
-1. The page will refresh, and the Pages section now shows a URL for the deployed site.
-1. Click the URL to view the deployed website.
+Has been unsuccessful via Pages at this time.  The Pages link simply opens the README, and navigating to index.html shows a blank white page.  This has been shelved for now.
 
 ### **How to Clone and Run the Code Locally**
 There are slightly different approaches should you choose to use GitPod to clone the project, or a local IDE.
