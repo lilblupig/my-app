@@ -115,34 +115,34 @@ Based on the experience of producing the website, the creator would now take the
 The website was created using [GitPod](https://www.gitpod.io/). Version control was undertaken by committing to [Git](https://git-scm.com/) and pushing to [GitHub](https://github.com/) using the functions within GitPod.
 
 ### **Deployment of the Page**
-1. In GitPod, ensure the tree is clean, and all required items have been committed and pushed to the repository in GitHub.
+1. In the IDE, ensure the tree is clean, and all required items have been committed and pushed to the repository in GitHub.
 1. Sign in to GitHub.
-1. A list of repositories should display on the left of the page. Choose the appropriate repository: XXXXX
+1. Navigate to the appropriate repository: [React Tutorial](https://github.com/lilblupig/react-tutorial)
 1. From the repository menu, choose Settings.
 ![GitHub menu snip](assets/readme-images/deploy-1.png)
-1. Scroll down the page to find the Pages section.
+1. On the sidebar menu to the left, find the Pages section.
 1. From the first dropdown box, choose the Master branch, then click save.
 ![GitHub Pages snip](assets/readme-images/deploy-2.png)
 1. The page will refresh, and the Pages section now shows a URL for the deployed site.
 1. Click the URL to view the deployed website.
 
-### **How to Run the Code Locally**
+### **How to Clone and Run the Code Locally**
 There are slightly different approaches should you choose to use GitPod to clone the project, or a local IDE.
 
 #### Cloning a Project into GitPod
 1. Use [Google Chrome](https://www.google.com/intl/en_uk/chrome/). *(This can also be undertaken in Firefox)*
 1. If you do not already have one, [create a GitHub account](https://github.com/join).
-1. Install the [GitPod browser extension for Chrome](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki).
+1. Install the [GitPod browser extension for Chrome](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki). *(Or Firefox if appropriate)*
 1. Restart Chrome.
-1. In GitHub, find the [project repository](https://github.com/XXXXX).
+1. In GitHub, find the [project repository](https://github.com/lilblupig/react-tutorial).
 1. From the repository menu, choose the green GitPod button.
-![GitPod button snip](assets/readme-images/deploy-3.png)
+![GitPod button snip](assets/readme-images/cloning-gitpod.png)
 1. A new GitPod workspace will open containing the project code.
 
 #### Cloning a Project into a Local IDE
-1. Navigate to the [GitHub Repository](https://github.com/XXXXX).
+1. Navigate to the [GitHub Repository](https://github.com/lilblupig/react-tutorial).
 1. Choose the Code dropdown menu, and copy the URL.
-![GitHub code download snip](assets/readme-images/deploy-4.png)
+![GitHub code download snip](assets/readme-images/clone-local-ide.png)
 1. Open your local IDE and then open a terminal.
 1. Set the current working directory to your preferred location for the cloned project.
 1. Type in "git clone " followed by the copied URL. Be sure to include a space between git clone and the url, then press enter.
@@ -183,12 +183,6 @@ The images for this README are from the following sources:
 
 #### Other
 * Markdown basic taken from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-**This website was produced as an educational project for the Code Institute Full Stack Development course.**
-
-**Created by Amy Hacker.**
-
-[Back to Top](#XXXXX)
 
 ## Getting Started with Create React App
 
@@ -260,3 +254,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 #### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+**This website was produced as an educational project.**
+
+**Created by Amy Hacker.**
+
+[Back to Top](#react-tutorial-tic-tac-toe)
