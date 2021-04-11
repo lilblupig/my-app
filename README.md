@@ -43,7 +43,7 @@ Improvements that you could make to the tic-tac-toe game which are listed in ord
 0. When no one wins, display a message about the result being a draw.
 
 ## Testing
-Incremental testing was undertaken using the local port 3000 and Chrome Developer Tools throughout production.  The [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools) plugin was installed to assist with this.
+Incremental testing was undertaken using the local port 3000 and Chrome Developer Tools throughout production.  The [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) plugin was installed to assist with this.
 
 ## Development Life Cycle
 The website was constructed via a step-by-step guide, though some bugs were encountered still.  The most notable of these was the misuse of commas and semi-colons in JSX syntax.
@@ -73,13 +73,13 @@ The project was deployed using GitHub pages once the basic structure of the page
 * [node.js](https://nodejs.org/en/) is required to work with React in a local IDE.
 * [Git](https://git-scm.com/)/[GitHub](https://github.com/) were used for version control and repository storage.
 * [Atom](https://atom.io/) was the IDE used to write the project.
-* [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) and the [React extension](https://chrome.google.com/webstore/detail/react-developer-tools) were used for bug fixing.
+* [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) and the [React extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) were used for bug fixing.
 
 ### **Other Resources**
 * [Code Institute Full Template](https://github.com/Code-Institute-Org/gitpod-full-template) was used to set up the repository.
 
 ## Deployment
-The website was created using [GitPod](https://www.gitpod.io/). Version control was undertaken by committing to [Git](https://git-scm.com/) and pushing to [GitHub](https://github.com/) using the functions within GitPod.
+The website was created using [Atom](https://atom.io/). Version control was undertaken by committing to [Git](https://git-scm.com/) and pushing to [GitHub](https://github.com/) using the functions within Atom.
 
 ### **Deployment of the Page**
 1. In the IDE, ensure the tree is clean, and all required items have been committed and pushed to the repository in GitHub.
@@ -99,7 +99,7 @@ There are slightly different approaches should you choose to use GitPod to clone
 #### Cloning a Project into GitPod
 1. Use [Google Chrome](https://www.google.com/intl/en_uk/chrome/). *(This can also be undertaken in Firefox)*
 1. If you do not already have one, [create a GitHub account](https://github.com/join).
-1. Install the [GitPod browser extension for Chrome](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/). *(Or Firefox if appropriate)*
+1. Install the [GitPod browser extension for Chrome](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki?hl=en). *(Or Firefox if appropriate)*
 1. Restart Chrome.
 1. In GitHub, find the [project repository](https://github.com/lilblupig/react-tutorial).
 1. From the repository menu, choose the green GitPod button.
